@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "lib": ["esnext"],
+    "baseUrl": "./src",
+    "strict": true,
+    "sourceMap": true,
+    "esModuleInterop": true
+  }
+}
